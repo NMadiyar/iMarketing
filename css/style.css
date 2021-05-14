@@ -322,6 +322,15 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400; margin:0;}
         height: auto;
         justify-content: center;
     }
+    .intro__img{
+        display: flex;
+        margin-left: 0;
+        margin-top: 50px;
+        justify-content: center;
+    }
+    .intro__img__opt{
+        height: 200px;
+    }
     .intro__inner{
         text-align: center;
     }
@@ -392,9 +401,6 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400; margin:0;}
 }
 
 @media(max-width: 670px){
-    .intro__img{
-        display: none;
-    }
     .features__sign{
         margin-top: 100px;
     }

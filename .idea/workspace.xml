@@ -25,7 +25,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My 3d work" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1620982080459</updated>
       <workItem from="1620982081509" duration="27017000" />
+      <workItem from="1621009369766" duration="1471000" />
     </task>
     <servers />
   </component>
